@@ -1,0 +1,11 @@
+# Editor config
+.vscode/
+# Coverage tests
+.nyc_output/
+coverage/
+# Node
+node_modules/
+# npm
+package-lock.json
+# Build artifacts
+dist/
